@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 我是赵总的爸爸！
 
 You can use the [editor on GitHub](https://github.com/mhsgzlu/BLGH2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
